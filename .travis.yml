@@ -9,7 +9,7 @@ env:
 - CI=true
 deploy:
   provider: heroku
-  api_key: f524b4dd-b47d-4ab0-9330-fbec19c0b94d
-  app: morning-cliffs-23218
+  api_key: 2607907a-85a1-461e-85ab-3ef4fdaf22cd
+  app: murmuring-caverns-85624
   on:
-    repo: DrewBlake/react-inventory-ease-api
+    repo: mntri4/react-inventory-ease-api
